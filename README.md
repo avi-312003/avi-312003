@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarthak Wakchaure</h1>
-<h3 align="center">Machine learning | Coding Enthusiast | Web Developer | Microsoft Azure | Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Avinash Chandore</h1>
+<h3 align="center">Cloud Computing | Coding Enthusiast | Web Developer | Microsoft Azure | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak88-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak88-tech" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 👯 I’m interested in contributing to **open source**
 
-- 🤝 I’m looking for help with **Backend development**
+- 🤝 I’m looking for help with **Frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak88-tech](https://github.com/Sarthak88-tech)
 
 - 💬 Ask me about **C++, Python, HTML, CSS, ML**
 
-- 📫 Reach out to me at **sarthakwakchaure88@gmail.com**
+- 📫 Reach out to me at **avi312003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zd1BbfbaNhs7izu6ETOMLWcHuFLOMI_h/view?usp=sharing](https://drive.google.com/file/d/1Zd1BbfbaNhs7izu6ETOMLWcHuFLOMI_h/view?usp=sharing)
 
